@@ -30,7 +30,7 @@ const ToDoList = () => {
 
   return (
     <div className="todo-list">
-      <h1>Todo list App</h1>
+      <h1>Todo list Application</h1>
       <div data-testid="list-container">
         {tasks.map((task, index) => (
           <div data-testid="todo-item" className="todo" key={index}>
