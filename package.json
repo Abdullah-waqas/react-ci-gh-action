@@ -1,7 +1,7 @@
 {
   "name": "react-ci-gh-action",
   "version": "0.1.0",
-  "homepage": "https://abdullah-wawqas.github.io/react-ci-gh-action",
+  "homepage": "https://abdullah-waqas.github.io/react-ci-gh-action/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
