@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ci-gh-action/static/css/main.b12c80c3.chunk.css",
+    "main.js": "/react-ci-gh-action/static/js/main.1d8b9bbc.chunk.js",
+    "main.js.map": "/react-ci-gh-action/static/js/main.1d8b9bbc.chunk.js.map",
+    "runtime-main.js": "/react-ci-gh-action/static/js/runtime-main.13e30aa8.js",
+    "runtime-main.js.map": "/react-ci-gh-action/static/js/runtime-main.13e30aa8.js.map",
+    "static/js/2.52e4123a.chunk.js": "/react-ci-gh-action/static/js/2.52e4123a.chunk.js",
+    "static/js/2.52e4123a.chunk.js.map": "/react-ci-gh-action/static/js/2.52e4123a.chunk.js.map",
+    "index.html": "/react-ci-gh-action/index.html",
+    "precache-manifest.8eb0db2d0198860346fd84c835f02ad8.js": "/react-ci-gh-action/precache-manifest.8eb0db2d0198860346fd84c835f02ad8.js",
+    "service-worker.js": "/react-ci-gh-action/service-worker.js",
+    "static/css/main.b12c80c3.chunk.css.map": "/react-ci-gh-action/static/css/main.b12c80c3.chunk.css.map",
+    "static/js/2.52e4123a.chunk.js.LICENSE.txt": "/react-ci-gh-action/static/js/2.52e4123a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13e30aa8.js",
+    "static/js/2.52e4123a.chunk.js",
+    "static/css/main.b12c80c3.chunk.css",
+    "static/js/main.1d8b9bbc.chunk.js"
+  ]
+}
